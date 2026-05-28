@@ -10,6 +10,8 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/turndown/7.1.2/turndown.min.js
 // @run-at       document-end
 // @license      MIT
+// @updateURL    https://raw.githubusercontent.com/Jessica939/google-ai-studio-copy/main/gas-perfect-copy.user.js
+// @downloadURL  https://raw.githubusercontent.com/Jessica939/google-ai-studio-copy/main/gas-perfect-copy.user.js
 // ==/UserScript==
 
 (function() {
